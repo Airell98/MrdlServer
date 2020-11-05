@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "airell",
+    "password": "tauhidjannah",
+    "database": "Merry_Riana_Digital_Learning",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "oxylhnbcdwdkgz",
+    "password": "4e8e198df6a73c669028f8c178e2a82603e5ec239ae2097aeca853af8029e53b",
+    "database": "d6gptp5c4j2hac",
+    "host": "ec2-34-232-147-86.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
